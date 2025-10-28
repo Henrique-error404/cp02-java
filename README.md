@@ -1,10 +1,7 @@
-## CP02
-
-![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3-brightgreen?style=for-the-badge&logo=springboot)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?style=for-the-badge&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker)
-![Swagger](https://img.shields.io/badge/Swagger-API%20Docs-green?style=for-the-badge&logo=swagger)
+## CP02 
+---
+## Henrique marques sladkevicius RM560698
+## Lucas Aurelio de Brito Chicote RM559366
 
 ---
 
@@ -21,7 +18,7 @@
 
 ---
 
-## Como rodar (modo rápido com Docker)
+## Como rodar com Docker
 
 1. Instale **Docker** e **Docker Compose**.  
 2. Ajuste credenciais em `src/main/resources/application.properties` (se necessário).  
@@ -40,5 +37,4 @@
    - Login → `POST /api/auth/login`  
    - Users CRUD → `/api/users` (🔒 protegido — use `Authorization: Bearer <token>`)  
    - pgAdmin → [http://localhost:5050](http://localhost:5050) (login: `admin@local` / senha: `admin`)  
-
----
+.
