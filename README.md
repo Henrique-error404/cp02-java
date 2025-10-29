@@ -2,6 +2,7 @@
 ---
 ## Henrique marques sladkevicius RM560698
 ## Lucas Aurelio de Brito Chicote RM559366
+## Lucas Gomes de Araujo Lopes RM559607
 
 ---
 
